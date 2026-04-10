@@ -1,3 +1,5 @@
+![Home Credit Default Risk](assets/home_credit.png)
+
 # Credit Risk Model
 
 A machine learning system built on Databricks that simulates a bank's credit scoring decisions. This project predicts whether a loan applicant will default or successfully repay their loan, helping financial institutions make data-driven lending decisions.
